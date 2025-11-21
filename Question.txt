@@ -1,0 +1,49 @@
+What is the chemical symbol for water?|H2O|O2|CO2|H2|1|science
+Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Saturn|2|science
+What gas do plants absorb from the atmosphere?|Oxygen|Carbon Dioxide|Nitrogen|Helium|2|science
+What is the nearest star to Earth?|Proxima Centauri|Sirius|The Sun|Vega|3|science
+What part of the plant conducts photosynthesis?|Stem|Root|Leaf|Flower|3|science
+Which scientist proposed the theory of relativity?|Newton|Einstein|Darwin|Tesla|2|science
+Which vitamin is produced when skin is exposed to sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|4|science
+What is the powerhouse of the cell?|Nucleus|Mitochondria|Ribosome|Chloroplast|2|science
+Water freezes at what temperature (°C)?|0|10|100|32|1|science
+What is the largest organ of the human body?|Heart|Brain|Skin|Lungs|3|science
+
+Who discovered America?|Newton|Galileo|Columbus|Magellan|3|history
+Who was the first President of the USA?|Lincoln|George Washington|John Adams|Roosevelt|2|history
+Where did the ancient Olympics originate?|Rome|Egypt|Greece|China|3|history
+In which year did World War II end?|1940|1945|1950|1939|2|history
+Who built the Taj Mahal?|Akbar|Shah Jahan|Aurangzeb|Babur|2|history
+Which empire built the Great Wall of China?|Roman|Greek|Chinese|Persian|3|history
+Who invented the telephone?|Einstein|Alexander Graham Bell|Marconi|Tesla|2|history
+Where was Napoleon Bonaparte born?|Italy|France|Corsica|Spain|3|history
+Who was known as the “Iron Lady”?|Indira Gandhi|Margaret Thatcher|Angela Merkel|Benazir Bhutto|2|history
+The pyramids are located in which country?|Mexico|Egypt|Peru|Sudan|2|history
+
+Who wrote "Hamlet"?|Dickens|Milton|Shakespeare|Tolstoy|3|literature
+Which novel features the character Sherlock Holmes?|Dracula|Sherlock Holmes|Harry Potter|Sherlock Holmes Series|4|literature
+Who wrote "The Alchemist"?|Paulo Coelho|Mark Twain|Hemingway|George Orwell|1|literature
+Who is the author of "Pride and Prejudice"?|Jane Austen|Virginia Woolf|Mary Shelley|Bronte|1|literature
+Which poet wrote "The Road Not Taken"?|William Blake|Robert Frost|Emily Dickinson|Keats|2|literature
+Who wrote "1984"?|George Orwell|H.G. Wells|Jules Verne|Agatha Christie|1|literature
+Which book series includes Hogwarts School?|Percy Jackson|Lord of the Rings|Harry Potter|Divergent|3|literature
+Who wrote "Don Quixote"?|Homer|Dante|Cervantes|Voltaire|3|literature
+Which writer created the detective Hercule Poirot?|Agatha Christie|Arthur Conan Doyle|Dan Brown|Stephen King|1|literature
+Who wrote "War and Peace"?|Tolstoy|Chekhov|Pushkin|Dostoevsky|1|literature
+
+Which sport is known as the "king of sports"?|Cricket|Basketball|Football|Tennis|3|sports
+How many players in a football team?|9|10|11|12|3|sports
+In which sport is a shuttlecock used?|Tennis|Badminton|Squash|Table Tennis|2|sports
+Who has won the most Olympic gold medals?|Usain Bolt|Michael Phelps|Carl Lewis|Nadal|2|sports
+What is the national sport of Japan?|Karate|Sumo Wrestling|Judo|Baseball|2|sports
+Which country invented basketball?|Canada|USA|Germany|France|1|sports
+How many rings are in the Olympic logo?|3|4|5|6|3|sports
+What is the length of a marathon (in miles)?|26.2|30|20.5|10.5|1|sports
+Which sport uses the term “love”?|Cricket|Hockey|Tennis|Golf|3|sports
+Which country won the FIFA World Cup 2022?|Brazil|Germany|France|Argentina|4|sports
+
+What is the capital of France?|Rome|London|Madrid|Paris|4|geography
+Which is the largest ocean on Earth?|Indian|Atlantic|Pacific|Arctic|3|geography
+Mount Everest lies in which country?|Nepal|China|India|Bhutan|1|geography
+Which river is the longest in the world?|Amazon|Nile|Mississippi|Yangtze|2|geography
+What is the largest continent?|Europe|Asia|Africa|Antarctica|2|geography
